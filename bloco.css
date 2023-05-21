@@ -1,0 +1,35 @@
+
+.slk{
+  border-width: 10px;
+  border-style: outset;
+  border-color: red;
+  padding: 10px;
+  margin: 15px;
+  width: 600px;
+  height: 500px;
+  margin-left: 350px;
+  margin-top: 200px;
+}
+body {
+	background-color: #f1dfdf;
+	
+
+}
+#c{
+	background-color: #154f7c;
+	font-size: 40px;
+	font-style: italic;
+	color:whitesmoke;
+	width: 100%;
+	padding-bottom:60px;
+	
+
+
+}
+.v{
+	background-color: #154f7c;
+	font-size: 25px;
+
+
+}
+

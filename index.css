@@ -1,0 +1,37 @@
+.pagina {
+	background-image: url('imagens/fundo.png');
+	
+
+}
+.imagem {
+	border: 1em outset #8e8383;
+	
+
+}
+.texto {
+	background-color: whitesmoke;
+	font-size: 18px;
+	font-style: italic;
+	text-align: center;
+	border: 10px ridge #c2b7b7;
+	}
+.menu {
+	font-size: 20px;
+	font-weight: bold;
+	background-color: #e4dada;
+	color: #ae9595;
+	
+
+
+}
+.b{
+	font-style: italic;
+
+}
+a {
+	text-decoration: none;
+	color: #b49d9d;
+}
+.borda {
+	border: solid 7px #f1dfdf;
+}
